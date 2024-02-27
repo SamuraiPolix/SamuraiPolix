@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Sam, and I am currently in my second year, studying for my BSc in Computer Science at Ariel University.
+My name is Sam, and I am currently in my second year, studying for a BSc in Computer Science at Ariel University.
 
 📫 Feel free to reach out: <a href="https://linkedin.com/in/samuellazareanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuellazareanu-linkedin" height="10" width="20" />LinkedIn</a>
 
