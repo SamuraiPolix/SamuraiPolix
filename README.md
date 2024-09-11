@@ -14,9 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Sam, and I am currently in my second year, studying for a BSc in Computer Science at Ariel University.
+My name is Sam, and I am currently in my third year, studying for a BSc in Computer Science at Ariel University.
 
-📫 Feel free to reach out:
+I enjoy automating everyday tasks to make life easier (See example - <a href="https://github.com/SamuraiPolix/Shorts-Maker">Py: Bulk YT Shorts Maker</a>), I like to workout and play video games (mainly CS<s>:GO</s>2).
+
+Currently looking to get into plugins development for SourcePawn.
+
+Future goal: develop a video game.
+
+📫 **Feel free to reach out**:
 - LinkedIn: <a href="https://linkedin.com/in/samuellazareanu" target="blank">Samuel Lazareanu</a>
 - Email: <a href= "mailto: samlaz.biz@gmail.com">samlaz.biz@gmail.com</a>
 
