@@ -23,6 +23,7 @@ Currently looking to get into plugins development for SourcePawn.
 Future goal: develop a video game.
 
 📫 **Feel free to reach out**:
+- <a href="https://samlazar.netlify.app/" target="blank">Portfolio Website</a>
 - LinkedIn: <a href="https://linkedin.com/in/samuellazareanu" target="blank">Samuel Lazareanu</a>
 - Email: <a href= "mailto: samlaz.biz@gmail.com">samlaz.biz@gmail.com</a>
 
