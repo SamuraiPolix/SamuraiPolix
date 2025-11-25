@@ -60,7 +60,7 @@ Future goal: develop a video game.
   <li><a href="https://github.com/stars/SamuraiPolix/lists/operating-systems-course">Operating Systems Course (C & C++)</a></li>
   <li><a href="https://github.com/stars/SamuraiPolix/lists/systems-programming-course">Systems Programming Courses (C & C++)</a></li>
   <li><a href="https://github.com/stars/SamuraiPolix/lists/oop-course">Object Oriented Programming Course (Java & Python)</a></li>
-  <li><a href="https://github.com/stars/SamuraiPolix/lists/computer-networking-course">Computer Networking (Communication) Course (Python and C)</a></li>
+  <li><a href="https://github.com/stars/SamuraiPolix/lists/computer-networking-course">Computer Networking (Communication Systems) Course (Python & C)</a></li>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
