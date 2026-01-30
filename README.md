@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Sam, and I am currently in my third year, studying for a BSc in Computer Science at Ariel University.
+My name is Sam. I am in my last year towards a BSc in Computer Science at Ariel University.
 
 I enjoy automating everyday tasks to make life easier (See example - <a href="https://github.com/SamuraiPolix/Shorts-Maker">Py: Bulk YT Shorts Maker</a>), I like to workout and play video games (mainly CS<s>:GO</s>2).
 
-Currently looking to get into plugins development for SourcePawn.
-
-Future goal: develop a video game.
+Currently looking to get into Embedded/Backend as a career and plugins development for SourcePawn on the side.
 
 📫 **Feel free to reach out**:
 - Portfolio Website: <a href="https://samlazar.netlify.app/" target="blank">Samuel Lazareanu</a>
@@ -31,25 +29,30 @@ Future goal: develop a video game.
   <tr>
     <th>Recent Academic Assignments</th>
     <th>Personal Projects</th>
+    <th>Contributions</th>
     
   </tr>
   <tr>
     <td><a href="https://github.com/SamuraiPolix/Catan-Game-CPP">C++: Catan Game</a></td>
     <td><a href="https://github.com/SamuraiPolix/Shorts-Maker">Python: Bulk YT Shorts Maker</a></td>
+    <td><a href="https://github.com/eupeutro/hltv-api">Python: HLTV.org API for CS eSports</a></td>
 
   </tr>
   <tr>
     <td><a href="https://github.com/SamuraiPolix/Operating-Systems-Ex2">C++: Custom netcat</a></td>
     <td><a href="https://github.com/SamuraiPolix/Image-Quote-Generator">Python: Bulk Quote Images Maker</a></td>
+    <td><a href="https://github.com/eupeutro/hltv-api"> Ma'akaf's Website (Israeli Open Source Community)</a></td>
     
   </tr>
   <tr>
     <td><a href="https://github.com/SamuraiPolix/Computer-Networking-Ex3">Python: Reliable UDP</a></td>
     <td><a href=""></a></td>
+    <td><a href=""></a></td>
     
   </tr>
   <tr>
     <td><a href="https://github.com/SamuraiPolix/Viking-Chess-Hnefatafi">Java: Viking Chess Game w/ GUI</a></td>
+    <td><a href=""></a></td>
     <td><a href=""></a></td>
     
   </tr>
