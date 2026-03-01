@@ -45,7 +45,7 @@ Currently looking to get into Embedded/Backend as a career and plugins developme
     
   </tr>
   <tr>
-    <td><a href="https://github.com/SamuraiPolix/Computer-Networking-Ex3">Python: Reliable UDP</a></td>
+    <td><a href="https://github.com/SamuraiPolix/Computer-Networking-Ex3">C: Reliable UDP</a></td>
     <td><a href=""></a></td>
     <td><a href=""></a></td>
     
